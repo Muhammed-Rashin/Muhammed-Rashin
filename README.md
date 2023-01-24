@@ -1,4 +1,4 @@
-<img width="1000" height ="400" src ="https://propulsive.in/assets/img/service-icon/service-dtls.jpg">
+<img width="1000" height ="400" src ="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm Muhammed Rashin</h1>
 <h3 align="center">A passionate web developer from India</h3>
