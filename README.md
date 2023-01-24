@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="1000" height ="400" src ="[https://www.shootdartsolutions.com/img/service/web-design.gif](https://propulsive.in/assets/img/service-icon/service-dtls.jpg)">
+<img align="right" alt="Coding" width="1000" height ="400" src ="https://www.shootdartsolutions.com/img/service/web-design.gif">
 
 <h1 align="center">Hi 👋, I'm Muhammed Rashin</h1>
 <h3 align="center">A passionate web developer from India</h3>
