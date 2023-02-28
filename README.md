@@ -1,5 +1,3 @@
-<img width="1000" height ="auto" src ="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
-
 <h1 align="center">Hi 👋, I'm Muhammed Rashin</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
@@ -16,8 +14,6 @@
 - 📫 How to reach me **ceorashin@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/3Htq0jg](https://bit.ly/3Htq0jg)
-
-- ⚡ Fun fact **“Programmer: A machine that turns coffee into code.”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
